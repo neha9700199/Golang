@@ -7,7 +7,7 @@ metadata:
     app: my-voting-app
 spec:
   containers:
-    - name: db-service
+    - name: db
       image: postgres:9.4
       ports:
         - containerPort: 5432

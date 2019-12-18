@@ -22,4 +22,4 @@ spec:
   selector:
     matchLabels:
       name: result-app-pod
-      app: demo-voting-app
+      sapp: demo-voting-app
